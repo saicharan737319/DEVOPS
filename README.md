@@ -1,2 +1,10 @@
-# DEVOPS
-My First project
+<html>
+  <head>
+    <title> My page </title>
+  </head>
+  <body>
+    <p>
+      hello world
+    </p>
+  </body>
+</html>
